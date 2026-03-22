@@ -1,0 +1,7 @@
+s=(1,2,3,4)
+s1.add(10)
+print("add=",s1)
+s2.update(5,6,7)
+print("update=",s2)
+s3.discard(1)
+print("disvcard=",s3)
